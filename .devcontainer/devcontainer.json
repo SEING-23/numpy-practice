@@ -4,7 +4,8 @@
 			"extensions": [
 				"GitHub.copilot",
 				"ms-python.python",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"analytic-signal.preview-pdf"
 			]
 		}
 	}
