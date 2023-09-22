@@ -1,1 +1,3 @@
-# numpy-practice
+# Numpy - Bootcamp
+
+Repositorio para ejercicios y prácticas de la biblioteca Numpyt
