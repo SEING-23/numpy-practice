@@ -1,3 +1,3 @@
 # Numpy - Bootcamp
 
-Repositorio para ejercicios y prácticas de la biblioteca Numpyt
+Repositorio para ejercicios y prácticas de la biblioteca Numpy
